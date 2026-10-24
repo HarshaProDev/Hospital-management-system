@@ -1,0 +1,26 @@
+[
+    {
+        "patient_id": "P001",
+        "name": "Rahul",
+        "age": 25,
+        "phone": "9123456789",
+        "gender": "Male",
+        "blood_group": "O+"
+    },
+    {
+        "patient_id": "P002",
+        "name": "Priya",
+        "age": 10,
+        "phone": "1234567890",
+        "gender": "male",
+        "blood_group": "A+"
+    },
+    {
+        "patient_id": "P003",
+        "name": "Arjun",
+        "age": 21,
+        "phone": "9000011111",
+        "gender": "male",
+        "blood_group": "B+"
+    }
+]

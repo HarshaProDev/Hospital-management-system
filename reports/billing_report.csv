@@ -1,0 +1,2 @@
+bill_id,patient_id,consultation_fee,test_charges,medicine_charges,total,bill_date,payment_status
+B001,P001,500.0,300.0,200.0,1000.0,2026-10-18,Paid

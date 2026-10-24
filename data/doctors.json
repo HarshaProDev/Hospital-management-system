@@ -1,0 +1,14 @@
+[
+    {
+        "doctor_id": "D001",
+        "name": "Dr.Kumar",
+        "age": 45,
+        "phone": "9988776655",
+        "specialization": "Cardiology",
+        "available_days": [
+            "Monday",
+            "Friday",
+            "Wednesday"
+        ]
+    }
+]

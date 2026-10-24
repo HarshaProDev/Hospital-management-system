@@ -1,0 +1,8 @@
+[
+    {
+        "username": "harsha",
+        "salt": "8896a884c9eab714c0af78f8a5050da2",
+        "password_hash": "a03b6c59d76d29b81438d069641efe47429d7647402e01f6e97b37c5dc3da225",
+        "role": "admin"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "bill_id": "B001",
+        "patient_id": "P001",
+        "consultation_fee": 500.0,
+        "test_charges": 300.0,
+        "medicine_charges": 200.0,
+        "total": 1000.0,
+        "bill_date": "2026-10-18",
+        "payment_status": "Paid"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "record_id": "MR001",
+        "patient_id": "P001",
+        "doctor_id": "D001",
+        "diagnosis": "Viral fever",
+        "symptoms": "Fever and Headache",
+        "medicines": [
+            "Medicine A",
+            "Medicine B"
+        ]
+    }
+]
